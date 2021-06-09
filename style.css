@@ -1,0 +1,38 @@
+html{
+    scroll-behavior: smooth;
+}
+.heading{
+    width: 100%;
+}
+.heading h3{
+    display: inline;
+}
+.heading button{
+    border:2px solid white;
+    float:right;
+}
+.mario_big{
+    width: 100%;
+}
+
+.play_btn,#status{
+    font-size: 25px;
+}
+h4{
+    background-color: rgb(3, 86, 119);
+    margin: 0px;
+    line-height: 2;
+    font-weight: bolder;
+    color: white;
+    
+}
+
+    video{
+        background:url("game_console.png");
+        background-size: contain;
+        padding: 25px;
+        background-position:center;
+}
+/*.instruction_img{
+   
+}
